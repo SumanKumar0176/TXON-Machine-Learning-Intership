@@ -1,7 +1,7 @@
 import numpy as np
 import argparse
-import cv2
 import os
+import cv2
 
 DIR = r"C:\Users\Suman Kumar\ml\txon-01"
 PROTOTXT = os.path.join(DIR, r"model/colorization_deploy_v2.prototxt")
